@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "zw0597"
+  name             : "Zeng Wei"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Longy College"
-  location         : "longyan, China"
+  bio              : "LongYan Universal"
+  location         : "LongYan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wCVhKuEAAAAJ"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "zw0597"  # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
