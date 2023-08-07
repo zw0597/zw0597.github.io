@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Deep Residual Learning for Image RecognitionA new approach for the detection of abnormal heart sound signals using TQWT, VMD and neural networks](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4042629212468705946)
 
 **Kaiming He**, Xiangyu Zhangh, Shaoqing Ren, Jian Sun
 
@@ -42,8 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-<span>show_paper_citationsdata
-<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
