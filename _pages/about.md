@@ -47,8 +47,8 @@ redirect_from:
 # 📝 文献发表 
 - Myocardial infarction detection using ITD, DWT and deterministic learning based on ECG signals
 Wei Zeng, Chengzhi Yuan
-Cogn Neurodyn.2023
 
+Cogn Neurodyn.2023 
 DOI：10.1007/s11571-022-09870-7
 
 - Analysis and classification of gait patterns in osteoarthritic and asymptomatic knees using phase space reconstruction, intrinsic time-scale decomposition and neural networks
