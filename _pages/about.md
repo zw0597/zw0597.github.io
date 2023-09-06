@@ -250,7 +250,7 @@ Wei Zeng, Mengqing Li, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang
 ARTIFICIAL INTELLIGENCE REVIEW.2019  
 DOI：10.1007/s10462-019-09755-y  
 
-UGV Direction Control by Human Arm Gesture Recognition via Deterministic Learning  
+- UGV Direction Control by Human Arm Gesture Recognition via Deterministic Learning  
 Xiaotian Chen, Xiaonan Dong, Wei Zeng, Chengzhi Yuan, Paolo Stegagno  
 1  
 .2019  
