@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "zengwei"
+title                    : "曾玮"
 description              : "zw0597"
 repository               : "zw0597/zw0597.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zeng Wei"
+  name             : "曾玮"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "LongYan Universal"
-  location         : "LongYan, China"
+  bio              : "龙岩学院"
+  location         : "中国 龙岩"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wCVhKuEAAAAJ"
