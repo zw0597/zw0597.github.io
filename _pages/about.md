@@ -45,22 +45,45 @@ redirect_from:
 
 
 # 📝 文献发表 
+- Myocardial infarction detection using ITD, DWT and deterministic learning based on ECG signals
+Wei Zeng, Chengzhi Yuan
+Cogn Neurodyn.2023
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+DOI：10.1007/s11571-022-09870-7
 
-[Deep Residual Learning for Image RecognitionA new approach for the detection of abnormal heart sound signals using TQWT, VMD and neural networks](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4042629212468705946)
+- Analysis and classification of gait patterns in osteoarthritic and asymptomatic knees using phase space reconstruction, intrinsic time-scale decomposition and neural networks
+Wei Zeng, Limin Ma, Yu Zhang
+Impact Factor: 3.6
+MULTIMEDIA TOOLS AND APPLICATIONS.2023
+DOI：10.1007/s11042-023-16322-9
 
-**Kaiming He**, Xiangyu Zhangh, Shaoqing Ren, Jian Sun
+- Exploring gait analysis and deep feature contributions to the screening of cervical spondylotic myelopathy
+Bing Ji, Qihang Dai, Xinyu Ji, Meng Si, Hecheng Ma, Menglin Cong, Lei Cheng, Liying Guan, Bo Su, Yuyan Zhang, Wei Zeng*
+Impact Factor: 5.3
+APPLIED INTELLIGENCE.2023
+DOI：10.1007/s10489-023-04829-5
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- Detection of knee osteoarthritis based on recurrence quantification analysis, fuzzy entropy and shallow classifiers
+Wei Zeng, Limin Ma, Yu Zhang
+Impact Factor: 3.6
+MULTIMEDIA TOOLS AND APPLICATIONS.2023
+DOI：10.1007/s11042-023-15772-5
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Dynamics Learning-Based Fault Isolation for A Soft Trunk Robot
+Jingting Zhang, Xiaotian Chen, Emadodin Jandaghi, Wei Zeng, Mingxi Zhou, Chengzhi Yuan
+.2023
+DOI：10.23919/ACC55779.2023.10156314
 
+- Machine learning-based detection of cervical spondylotic myelopathy using multiple gait parameters
+Xinyu Ji, Wei Zeng, Qihang Dai, Yuyan Zhang, Shaoyi Du, Bing Ji
+Biomimetic Intelligence and Robotics.2023
+DOI：10.1016/j.birob.2023.100103
 
+- Vector Field-Based Guidance for Planar Smooth Path Following of a Small Unmanned Helicopter
+Yang Chen, Wei Zeng, Yongliang Wu
+Impact Factor: 1.8
+Journal of Robotics.2023
+DOI：10.1155/2023/8638882
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
