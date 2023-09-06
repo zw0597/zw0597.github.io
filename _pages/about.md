@@ -30,20 +30,20 @@ redirect_from:
 
 
 # 🔥 工作经历
-- 2018.12-至今      教授       龙岩学院               物理与机电工程学院
-- 2017.09-2018.09   访问学者   悉尼大学(澳大利亚)     健康科学学院
-- 2015.12-2018.11   副教授     龙岩学院               物理与机电工程学院
-- 2012.08-2014.11   博士后     华南理工大学           机械工程流动站  工作内容：副研究员                     
-- 2010.07-2015.11   讲师       龙岩学院               物理与机电工程学院
-- 2003.09-2010.06   助教       龙岩学院               物理与机电工程学院
-- 2002.07-2003.07   助理工程师 厦门国际航空港集团有限公司
+- 2018.12-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
+- 2017.09-2018.09&nbsp;&nbsp;&nbsp;访问学者&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;悉尼大学(澳大利亚)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;健康科学学院
+- 2015.12-2018.11&nbsp;&nbsp;&nbsp;副教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
+- 2012.08-2014.11&nbsp;&nbsp;&nbsp;博士后&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华南理工大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机械工程流动站&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工作内容：副研究员                     
+- 2010.07-2015.11&nbsp;&nbsp;&nbsp;讲师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
+- 2003.09-2010.06&nbsp;&nbsp;&nbsp;助教&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
+- 2002.07-2003.07&nbsp;&nbsp;&nbsp;助理工程师&nbsp;&nbsp;&nbsp;&nbsp;厦门国际航空港集团有限公司
 
 
 # 🎖 获奖情况
-- 2021  福建省C类人才
-- 2019  龙岩市优秀教师
-- 2018  福建省百千万人才
-- 2017  龙岩学院郑声滔奖教基金
+- 2021&nbsp;&nbsp;&nbsp;福建省C类人才
+- 2019&nbsp;&nbsp;&nbsp;龙岩市优秀教师
+- 2018&nbsp;&nbsp;&nbsp;福建省百千万人才
+- 2017&nbsp;&nbsp;&nbsp;龙岩学院郑声滔奖教基金
 
 
 # 📝 文献发表 
