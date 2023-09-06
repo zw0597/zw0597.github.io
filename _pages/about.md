@@ -21,7 +21,7 @@ redirect_from:
 
 
 
-# 📖 Educations
+# 📖 教育经历
 - 2009.09-2012.06   博士华南理工大学 /   自动化科学与工程学院   / 控制理论与控制工程
 - 2005.03-2008.06   硕士厦门大学     /   自动化系               / 控制工程
 - 1998.09-2002.07   学士华南理工大学 /   机械工程学院           / 机械工程及自动化
@@ -37,14 +37,14 @@ redirect_from:
 - 2002.07-2003.07   助理工程师 厦门国际航空港集团有限公司
 
 
-# 🎖 Honors and Awards
+# 🎖 获奖情况
 - 2021  福建省C类人才
 - 2019  龙岩市优秀教师
 - 2018  福建省百千万人才
 - 2017  龙岩学院郑声滔奖教基金
 
 
-# 📝 Publications 
+# 📝 文献发表 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
