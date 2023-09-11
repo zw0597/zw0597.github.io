@@ -483,10 +483,10 @@ DOI：10.1109/WCICA.2010.5553987
 
 
 
-# 💬 Invited Talks
+# 💬 专利申请
 **发明专利**
 -  [1]*2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--   [2]*2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-  [2]*2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 **实用新型专利**  
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
