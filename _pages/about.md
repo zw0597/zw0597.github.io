@@ -33,7 +33,7 @@ redirect_from:
 - 2018.12-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
 - 2017.09-2018.09&nbsp;&nbsp;&nbsp;访问学者&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;悉尼大学(澳大利亚)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;健康科学学院
 - 2015.12-2018.11&nbsp;&nbsp;&nbsp;副教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
-- 2012.08-2014.11&nbsp;&nbsp;&nbsp;博士后&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华南理工大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机械工程流动站&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工作内容：副研究员                     
+- 2012.08-2014.11&nbsp;&nbsp;&nbsp;博士后&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华南理工大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机械工程流动站&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                    
 - 2010.07-2015.11&nbsp;&nbsp;&nbsp;讲师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
 - 2003.09-2010.06&nbsp;&nbsp;&nbsp;助教&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
 - 2002.07-2003.07&nbsp;&nbsp;&nbsp;助理工程师&nbsp;&nbsp;&nbsp;&nbsp;厦门国际航空港集团有限公司
@@ -54,20 +54,20 @@ redirect_from:
 
 - Analysis and classification of gait patterns in osteoarthritic and asymptomatic knees using phase space reconstruction, intrinsic time-scale decomposition and neural networks  
 Wei Zeng, Limin Ma, Yu Zhang  
-Impact Factor: 3.6  
 MULTIMEDIA TOOLS AND APPLICATIONS.2023  
+Impact Factor: 3.6  
 DOI：10.1007/s11042-023-16322-9  
 
 - Exploring gait analysis and deep feature contributions to the screening of cervical spondylotic myelopathy  
 Bing Ji, Qihang Dai, Xinyu Ji, Meng Si, Hecheng Ma, Menglin Cong, Lei Cheng, Liying Guan, Bo Su, Yuyan Zhang, Wei Zeng*  
-Impact Factor: 5.3  
 APPLIED INTELLIGENCE.2023  
+Impact Factor: 5.3  
 DOI：10.1007/s10489-023-04829-5  
 
 - Detection of knee osteoarthritis based on recurrence quantification analysis, fuzzy entropy and shallow classifiers  
 Wei Zeng, Limin Ma, Yu Zhang  
-Impact Factor: 3.6  
 MULTIMEDIA TOOLS AND APPLICATIONS.2023  
+Impact Factor: 3.6  
 DOI：10.1007/s11042-023-15772-5  
 
 - Dynamics Learning-Based Fault Isolation for A Soft Trunk Robot  
@@ -82,8 +82,8 @@ DOI：10.1016/j.birob.2023.100103
 
 - Vector Field-Based Guidance for Planar Smooth Path Following of a Small Unmanned Helicopter  
 Yang Chen, Wei Zeng, Yongliang Wu  
-Impact Factor: 1.8  
 Journal of Robotics.2023  
+Impact Factor: 1.8  
 DOI：10.1155/2023/8638882  
 
 - Horizontal Path Following Kinematic Controller for a Small Fixed-wing UAV Using Backstepping and Parameter Optimization  
@@ -484,8 +484,9 @@ DOI：10.1109/WCICA.2010.5553987
 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+**发明专利**
+-  [1]*2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-   [2]*2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**实用新型专利**  
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
