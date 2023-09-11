@@ -490,3 +490,114 @@ DOI：10.1109/WCICA.2010.5553987
 **实用新型专利**  
 # 💻 Interneships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- - Neural output-feedback control for time-delay systems with full-state constraints  
+Si, W.-J., Wang, C., Dong, X.-D., Zeng, W.  
+Kongzhi yu Juece/Control and Decision.2017  
+DOI：10.13195/j.kzyjc.2016.0960  
+
+- Observed-based adaptive neural tracking control for nonlinear systems with unknown dead-zone  
+Si, W.-J., Wang, C., Zeng, W.  
+Kongzhi yu Juece/Control and Decision.2017  
+DOI：10.13195/j.kzyjc.2016.0445  
+
+- Adaptive output-feedback control of an uncertain strict-feedback time-delay system  
+Si, W., Dong, X., Zeng, W.  
+Xi Tong Gong Cheng Yu Dian Zi Ji Shu/Systems Engineering and Electronics.2017  
+DOI：10.3969/j.issn.1001-506X.2017.06.22  
+
+- A New Gait Recognition Method Using Kinect via Deterministic Learning  
+Fenglin Liu, Ying Wang, Qinghui Wang, Long Zhang, Wei Zeng  
+1  
+.2016  
+DOI：10.1109/WCICA.2016.7578329  
+
+- Deterministic Learning for Human Gait Recognition  
+Feifei Yang, Wenjie Si, Wei Zeng, Qian Wang  
+0  
+.2016  
+DOI：10.1109/CCDC.2016.7531504  
+
+- View-invariant gait recognition via deterministic learning  
+Wei Zeng, Cong Wang  
+6  
+29  
+NEUROCOMPUTING.2016  
+DOI：10.1016/j.neucom.2015.10.065  
+
+- Temporal Consistency Object Tracker with Ranking Mechanism  
+Yueen Hou, Ping Ye, Wei Zeng  
+0  
+.2015  
+DOI：10.1109/ROBIO.2015.7418834  
+
+- Learning from adaptive neural network control of an underactuated rigid spacecraft  
+Wei Zeng, Qinghui Wang  
+6  
+18  
+NEUROCOMPUTING.2015  
+DOI：10.1016/j.neucom.2015.05.055  
+
+- A New Inertial Sensor-Based Gait Recognition Method via Deterministic Learning  
+Zeng Wei, Wang Qinghui, Deng Muqing, Liu Yiqi  
+10  
+.2015  
+DOI：10.1109/ChiCC.2015.7260243  
+
+- Gait recognition across different walking speeds via deterministic learning  
+Wei Zeng, Cong Wang  
+6  
+20  
+NEUROCOMPUTING.2015  
+DOI：10.1016/j.neucom.2014.10.079  
+
+- View-Invariant Gait Recognition via Deterministic Learning  
+Wei Zeng, Cong Wang  
+12  
+.2014  
+DOI：10.1109/IJCNN.2014.6889507  
+
+- Learning from NN output feedback control of robot manipulators  
+Wei Zeng, Cong Wang  
+6  
+18  
+NEUROCOMPUTING.2014  
+DOI：10.1016/j.neucom.2012.07.042  
+
+- Model-Based Human Gait Recognition Via Deterministic Learning  
+Wei Zeng, Cong Wang, Yuanqing Li  
+5.4  
+43  
+Cognitive Computation.2013  
+DOI：10.1007/s12559-013-9221-4  
+
+- Learning from NN output feedback control of nonlinear systems in Brunovsky canonical form  
+Wei Zeng, Cong Wang  
+1.4  
+2  
+Control Theory and Technology.2013  
+DOI：10.1007/s11768-013-1124-0  
+
+- Silhouette-Based Gait Recognition via Deterministic Learning  
+Wei Zeng, Cong Wang  
+8  
+.2013  
+DOI：10.1007/978-3-642-38786-9_1  
+
+- Human gait recognition via deterministic learning  
+Wei Zeng, Cong Wang  
+36  
+Neural Netw.2012  
+DOI：10.1016/j.neunet.2012.07.012  
+
+- Synthesis, X-ray structural, characterization, NBO and HOMO-LUMO analysis using DFT study of 4-methyl-N-(naphthalene-1-yl)benzene sulfonamide  
+K Sarojini, H Krishnan, Charles C Kanakam, S Muthu  
+Spectrochim Acta A Mol Biomol Spectrosc.2012  
+DOI：10.3873/j.issn.1000-1328.2015.07.010  
+
+- Dynamic vision via deterministic learning  
+Huiyan Yang, Wei Zeng, Cong Wang  
+0  
+.2010  
+DOI：10.1109/WCICA.2010.5553987  
+- # 💻 Interneeships
+- *2019.05 - 2020.dddd02*, [Lorem](https://github.com/), China.
