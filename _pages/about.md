@@ -488,5 +488,5 @@ DOI：10.1109/WCICA.2010.5553987
 -  [1]陈阳;曾玮;方金顺(外);刘生建;张红艳;张玉魏(外); 龙岩学院物理与机电工程学院 一种基于半挂车铰接的智能化调距设备 20230820621.3 2023-07-06 
 -  [2]*2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 **实用新型专利**  
-# 💻 Internships
+# 💻 Interneships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
