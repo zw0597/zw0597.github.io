@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "关于我"
-    url: "/#-关于我"
+  - title: "About me"
+    url: "/#-About me"
 
   - title: "Educations"
     url: "/#-Educations"
 
-  - title: "工作经历"
-    url: "/#-工作经历"
+  - title: "work"
+    url: "/#-work"
 
-  - title: "获奖情况"
-    url: "/#-获奖情况"
+  - title: "Awars"
+    url: "/#-Awars"
 
-  - title: "文献发表"
-    url: "/#-文献发表"
+  - title: "Publications"
+    url: "/#-Pubilcations"
  
-  - title: "专利申请"
-    url: "/#-专利申请"
+  - title: "Patent"
+    url: "/#-Patent"
 
   - title: "Interneships"
     url: "/#-interneships"
