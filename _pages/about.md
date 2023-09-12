@@ -29,7 +29,7 @@ redirect_from:
 - 1998.09-2002.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华南理工大学&nbsp;&nbsp;&nbsp;&nbsp;机械工程学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机械工程及自动化
 
 
-# 🔥 工作经历
+# 🔥 work
 - 2018.12-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
 - 2017.09-2018.09&nbsp;&nbsp;&nbsp;访问学者&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;悉尼大学(澳大利亚)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;健康科学学院
 - 2015.12-2018.11&nbsp;&nbsp;&nbsp;副教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
@@ -39,14 +39,14 @@ redirect_from:
 - 2002.07-2003.07&nbsp;&nbsp;&nbsp;助理工程师&nbsp;&nbsp;&nbsp;&nbsp;厦门国际航空港集团有限公司
 
 
-# 🎖 获奖情况
+# 🎖 Awars
 - 2021&nbsp;&nbsp;&nbsp;福建省C类人才
 - 2019&nbsp;&nbsp;&nbsp;龙岩市优秀教师
 - 2018&nbsp;&nbsp;&nbsp;福建省百千万人才
 - 2017&nbsp;&nbsp;&nbsp;龙岩学院郑声滔奖教基金
 
 
-# 📝 文献发表 
+# 📝 Publications
 **2023**
 - Myocardial infarction detection using ITD, DWT and deterministic learning based on ECG signals  
   Wei Zeng, Chengzhi Yuan  
@@ -484,7 +484,7 @@ DOI：10.1109/WCICA.2010.5553987
 
 
 
-# 💬 专利申请
+# 💬 Patent
 **发明专利**
 -  [1]陈阳;**曾玮**;方金顺;刘生建;张红艳;张玉魏; 龙岩学院, 一种基于半挂车铰接的智能化调距设备, 专利号: 20230820621.3, 申请日期:2023-07-06  
 -  [2]**曾玮**;陈阳;张士钱;苏太育;王清辉;杜少毅; 龙岩学院 一种高压自动断路器 2023102870516 申请日期:2023-03-23  
