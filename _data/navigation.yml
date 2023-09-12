@@ -3,8 +3,8 @@ main:
   - title: "关于我"
     url: "/#-关于我"
 
-  - title: "教育经历"
-    url: "/#-Educations"
+  - title: "Educations"
+    url: "/#-教育经历"
 
   - title: "工作经历"
     url: "/#-工作经历"
