@@ -9,10 +9,10 @@ main:
     url: "/#-educations"
 
   - title: "工作经历"
-    url: "/#-work"
+    url: "/#-experience"
 
   - title: "获奖情况"
-    url: "/#-awars"
+    url: "/#-awards"
 
   - title: "论文发表"
     url: "/#-publications"
