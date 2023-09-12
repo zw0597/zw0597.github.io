@@ -29,7 +29,7 @@ redirect_from:
 - 1998.09-2002.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华南理工大学&nbsp;&nbsp;&nbsp;&nbsp;机械工程学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机械工程及自动化
 
 
-# 🔥 work
+# 🔥 Experience
 - 2018.12-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
 - 2017.09-2018.09&nbsp;&nbsp;&nbsp;访问学者&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;悉尼大学(澳大利亚)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;健康科学学院
 - 2015.12-2018.11&nbsp;&nbsp;&nbsp;副教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龙岩学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;物理与机电工程学院
