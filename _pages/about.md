@@ -39,7 +39,7 @@ redirect_from:
 - 2002.07-2003.07&nbsp;&nbsp;&nbsp;助理工程师&nbsp;&nbsp;&nbsp;&nbsp;厦门国际航空港集团有限公司
 
 
-# 🎖 Awars
+# 🎖 Awards
 - 2021&nbsp;&nbsp;&nbsp;福建省C类人才
 - 2019&nbsp;&nbsp;&nbsp;龙岩市优秀教师
 - 2018&nbsp;&nbsp;&nbsp;福建省百千万人才
