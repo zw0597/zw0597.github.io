@@ -69,168 +69,168 @@ DOI：[10.1007/s10489-023-04829-5](https://doi.org/10.1007/s10489-023-04829-5)
 Wei Zeng, Limin Ma, Yu Zhang  
 MULTIMEDIA TOOLS AND APPLICATIONS.2023  
 Impact Factor: 3.6  
-DOI：10.1007/s11042-023-15772-5  
+DOI：[10.1007/s11042-023-15772-5](https://doi.org/10.1007/s11042-023-15772-5)  
 
 - Dynamics Learning-Based Fault Isolation for A Soft Trunk Robot  
 Jingting Zhang, Xiaotian Chen, Emadodin Jandaghi, Wei Zeng, Mingxi Zhou, Chengzhi Yuan  
 .2023  
-DOI：10.23919/ACC55779.2023.10156314  
+DOI：[10.23919/ACC55779.2023.10156314](https://doi.org/10.23919/ACC55779.2023.10156314)  
 
 - Machine learning-based detection of cervical spondylotic myelopathy using multiple gait parameters  
 Xinyu Ji, Wei Zeng, Qihang Dai, Yuyan Zhang, Shaoyi Du, Bing Ji  
 Biomimetic Intelligence and Robotics.2023  
-DOI：10.1016/j.birob.2023.100103  
+DOI：[10.1016/j.birob.2023.100103](https://doi.org/10.1016/j.birob.2023.100103)  
 
 - Vector Field-Based Guidance for Planar Smooth Path Following of a Small Unmanned Helicopter  
 Yang Chen, Wei Zeng, Yongliang Wu  
 Journal of Robotics.2023  
 Impact Factor: 1.8  
-DOI：10.1155/2023/8638882  
+DOI：[10.1155/2023/8638882](https://doi.org/10.1155/2023/8638882)  
 
 - Horizontal Path Following Kinematic Controller for a Small Fixed-wing UAV Using Backstepping and Parameter Optimization  
 Yang Chen, Nan Li, Yongliang Wu, Wei Zeng  
 0  
 International Journal of Control, Automation and Systems.2023  
-DOI：10.1007/s12555-021-0992-1  
+DOI：[10.1007/s12555-021-0992-1](https://doi.org/10.1007/s12555-021-0992-1)  
 
 - Detection of cervical spondylotic myelopathy based on gait analysis and deterministic learning  
 Bing Ji, Qihang Dai, Xinyu Ji, Weiming Wu, Qinghua Sun, Hecheng Ma, Menglin Cong, Lei Cheng, Cong Wang, Meng Si, Wei Zeng  
 12  
 1  
 ARTIFICIAL INTELLIGENCE REVIEW.2023  
-DOI：10.1007/s10462-023-10404-8  
+DOI：[10.1007/s10462-023-10404-8](https://doi.org/10.1007/s10462-023-10404-8)  
 
 - Epileptic EEG Identification Based on Dual Q-Factor Signal Decomposition (DQSD), Fast and Adaptive Multivariate Empirical Mode Decomposition (FA-MVEMD) and Neural Networks  
 Wei Zeng, Chengzhi Yuan  
 0  
 Circuits, Systems, and Signal Processing.2023  
-DOI：10.1007/s00034-022-02282-2  
+DOI：[10.1007/s00034-022-02282-2](https://doi.org/10.1007/s00034-022-02282-2)  
 
 - Abnormal heart sound detection from unsegmented phonocardiogram using deep features and shallow classifiers  
 Yang Chen, Bo Su, Wei Zeng, Chengzhi Yuan, Bing Ji  
 3.6  
 1  
 MULTIMEDIA TOOLS AND APPLICATIONS.2023  
-DOI：10.1007/s11042-022-14315-8  
+DOI：[10.1007/s11042-022-14315-8](https://doi.org/10.1007/s11042-022-14315-8)  
 
 - Gait classification for early detection and severity rating of Parkinson’s disease based on hybrid signal processing and machine learning methods  
 Qinghui Wang, Wei Zeng, Xiangkun Dai  
 3.7  
 1  
 Cognitive Neurodynamics.2022  
-DOI：10.1007/s11571-022-09925-9  
+DOI：[10.1007/s11042-023-15772-5](https://doi.org/10.1007/s11571-022-09925-9)  
 
 - A novel technique for the detection of myocardial dysfunction using ECG signals based on CEEMD, DWT, PSR and neural networks  
 Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
 12  
 1  
 ARTIFICIAL INTELLIGENCE REVIEW.2022  
-DOI：10.1007/s10462-022-10262-w  
+DOI：[10.1007/s10462-022-10262-w](https://doi.org/10.1007/s10462-022-10262-w)  
 
 - Automatic Detection of Heart Valve Disorders Using Hybrid Signal Processing and Convolutional Neural Networks  
 Bo Su, Wei Zeng, Yang Chen, Chengzhi Yuan  
 0  
 .2022  
-DOI：10.23919/CCC55666.2022.9901903  
+DOI：[10.23919/CCC55666.2022.9901903](https://doi.org/10.23919/CCC55666.2022.9901903)  
 
 - Adaptive NN-Based Boundary Control for Output Tracking of A Wave Equation with Matched and Unmatched Boundary Uncertainties  
 Jingting Zhang, Paolo Stegagno, Wei Zeng, Chengzhi Yuan  
 0  
 .2022  
-DOI：10.23919/ACC53348.2022.9867897  
+DOI：[10.23919/ACC53348.2022.9867897](https://doi.org/10.23919/ACC53348.2022.9867897)  
 
 - Curved Path Following Control for a Small Fixed-Wing UAV with Parameters Adaptation  
 Yang Chen, Nan Li, Wei Zeng, Yongliang Wu  
 0  
 Applied Sciences.2022  
-DOI：10.3390/app12094187  
+DOI：[10.3390/app12094187](https://doi.org/10.3390/app12094187)  
 
 - Curved Path Following Controller for 4W Skid-Steering Mobile Robots Using Backstepping  
 Yang Chen, Nan Li, Wei Zeng, Shiqian Zhang, Guifang Ma  
 3.9  
 2  
 IEEE Access.2022  
-DOI：10.1109/ACCESS.2022.3185062  
+DOI：[10.1109/ACCESS.2022.3185062](https://doi.org/10.1109/ACCESS.2022.3185062)  
 
 - Adaptive NN-Based Reference-Tracking Control of Uncertain Nonlinear Parabolic PDE Systems  
 Jingting Zhang, Yan Gu, Paolo Stegagno, Wei Zeng, Chengzhi Yuan  
 1  
 .2021  
-DOI：10.1109/CDC45484.2021.9683381  
+DOI：[10.1109/CDC45484.2021.9683381](https://doi.org/10.1109/CDC45484.2021.9683381)  
 
 - The impact of feature extraction and selection for the classification of gait patterns between ACL deficient and intact knees based on different classification models  
 Wei Zeng, Shiek Abdullah Ismail, Evangelos Pappas  
 1.9  
 1  
 EURASIP Journal on Advances in Signal Processing.2021  
-DOI：10.1186/s13634-021-00796-6  
+DOI：[10.1186/s13634-021-00796-6](https://doi.org/10.1186/s13634-021-00796-6)  
 
 - Hybrid control of switched LFT uncertain systems with time-varying input delays  
 Chengzhi Yuan, Yan Gu, Wei Zeng  
 2.1  
 0  
 INTERNATIONAL JOURNAL OF CONTROL.2021  
-DOI：10.1080/00207179.2021.1975197  
+DOI：[10.1080/00207179.2021.1975197](https://doi.org/10.1080/00207179.2021.1975197)  
 
 - ECG arrhythmia classification based on variational mode decomposition, Shannon energy envelope and deterministic learning  
 Wei Zeng, Chengzhi Yuan  
 5.6  
 5  
 International Journal of Machine Learning and Cybernetics.2021  
-DOI：10.1007/s13042-021-01389-3  
+DOI：[10.1007/s13042-021-01389-3](https://doi.org/10.1007/s13042-021-01389-3)  
 
 - Fault Detection of A Class of Nonlinear Uncertain Parabolic PDE Systems  
 Jingting Zhang, Chengzhi Yuan, Wei Zeng, Paolo Stegagno, Cong Wang  
 1  
 .2021  
-DOI：10.23919/ACC50511.2021.9483354  
+DOI：[10.23919/ACC50511.2021.9483354](https://doi.org/10.23919/ACC50511.2021.9483354)  
 
 - Horizontal Nonlinear Path Following Guidance Law for a Small UAV With Parameter Optimized by NMPC  
 Yang Chen, Chaolei Wang, Wei Zeng, Yongliang Wu  
 3.9  
 4  
 IEEE Access.2021  
-DOI：10.1109/ACCESS.2021.3111101  
+DOI：[10.1109/ACCESS.2021.3111101](https://doi.org/10.1109/ACCESS.2021.3111101)  
 
 - Fault Detection of a Class of Nonlinear Uncertain Parabolic PDE Systems  
 Jingting Zhang, Chengzhi Yuan, Wei Zeng, Paolo Stegagno, Cong Wang  
 3  
 6  
 IEEE Control Systems Letters.2020  
-DOI：10.1109/LCSYS.2020.3040132  
+DOI：[10.1109/LCSYS.2020.3040132](https://doi.org/10.1109/LCSYS.2020.3040132)  
 
 - Myocardial infarction detection using artificial intelligence and nonlinear features based on synthesis of the standard 12-lead and Frank XYZ leads  
 Wei Zeng, Zixiang Lin, Chengzhi Yuan  
 0  
 Research Square.2020  
-DOI：10.21203/rs.3.rs-56003/v1  
+DOI：[10.21203/rs.3.rs-56003/v1](https://doi.org/10.21203/rs.3.rs-56003/v1)  
 
 - A new approach for the detection of abnormal heart sound signals using TQWT, VMD and neural networks  
 Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
 12  
 25  
 ARTIFICIAL INTELLIGENCE REVIEW.2020  
-DOI：10.1007/s10462-020-09875-w  
+DOI：[10.1007/s10462-020-09875-w](https://doi.org/10.1007/s10462-020-09875-w)  
 
 - Classification of myocardial infarction based on hybrid feature extraction and artificial intelligence tools by adopting tunable-Q wavelet transform (TQWT), variational mode decomposition (VMD) and neural networks  
 Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
 7.5  
 22  
 ARTIFICIAL INTELLIGENCE IN MEDICINE.2020  
-DOI：10.1016/j.artmed.2020.101848  
+DOI：[10.1016/j.artmed.2020.101848](https://doi.org/10.1016/j.artmed.2020.101848)  
 
 - Cooperative Adaptive Learning Control for a Group of Nonholonomic UGVs by Output Feedback  
 Xiaonan Dong, Paolo Stegagno, Chengzhi Yuan, Wei Zeng  
 1  
 .2020  
-DOI：10.5772/intechopen.87038  
+DOI：[10.5772/intechopen.87038](https://doi.org/10.5772/intechopen.87038)  
 
 - Small fault detection from discrete-time closed-loop control using fault dynamics residuals  
 Jingting Zhang, Chengzhi Yuan, Paolo Stegagno, Wei Zeng, Cong Wang  
 6  
 10  
 NEUROCOMPUTING.2019  
-DOI：10.1016/j.neucom.2019.07.037  
+DOI：[10.1016/j.neucom.2019.07.037](https://doi.org/10.1016/j.neucom.2019.07.037)  
 
 - Detecting the presence of anterior cruciate ligament deficiency based on a double pendulum model, intrinsic time-scale decomposition (ITD) and neural networks  
 Wei Zeng, Shiek Abdullah Ismail, Evangelos Pappas  
