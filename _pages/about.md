@@ -50,88 +50,91 @@ redirect_from:
 **2023**
 - Myocardial infarction detection using ITD, DWT and deterministic learning based on ECG signals  
   Wei Zeng, Chengzhi Yuan  
-  **Cognitive Neurodynamics, volume 17, pages941–964, 2023**  
+  **Cognitive Neurodynamics, volume 17, pages941–964, 2023**
+  Impact Factor: 3.7  
   DOI：[10.1007/s11571-022-09870-7](https://doi.org/10.1007/s11571-022-09870-7)  
 
 - Analysis and classification of gait patterns in osteoarthritic and asymptomatic knees using phase space reconstruction, intrinsic time-scale decomposition and neural networks  
 Wei Zeng, Limin Ma, Yu Zhang  
-MULTIMEDIA TOOLS AND APPLICATIONS.2023  
+**MULTIMEDIA TOOLS AND APPLICATIONS.2023**  
 Impact Factor: 3.6  
 DOI：[10.1007/s11042-023-16322-9](https://doi.org/10.1007/s11042-023-16322-9)  
 
 - Exploring gait analysis and deep feature contributions to the screening of cervical spondylotic myelopathy  
 Bing Ji, Qihang Dai, Xinyu Ji, Meng Si, Hecheng Ma, Menglin Cong, Lei Cheng, Liying Guan, Bo Su, Yuyan Zhang, Wei Zeng*  
-APPLIED INTELLIGENCE.2023  
+**APPLIED INTELLIGENCE.2023**  
 Impact Factor: 5.3  
 DOI：[10.1007/s10489-023-04829-5](https://doi.org/10.1007/s10489-023-04829-5)  
 
 - Detection of knee osteoarthritis based on recurrence quantification analysis, fuzzy entropy and shallow classifiers  
 Wei Zeng, Limin Ma, Yu Zhang  
-MULTIMEDIA TOOLS AND APPLICATIONS.2023  
+**MULTIMEDIA TOOLS AND APPLICATIONS.2023**  
 Impact Factor: 3.6  
 DOI：[10.1007/s11042-023-15772-5](https://doi.org/10.1007/s11042-023-15772-5)  
 
 - Dynamics Learning-Based Fault Isolation for A Soft Trunk Robot  
 Jingting Zhang, Xiaotian Chen, Emadodin Jandaghi, Wei Zeng, Mingxi Zhou, Chengzhi Yuan  
-.2023  
+**2023 American Control Conference (ACC)**  
 DOI：[10.23919/ACC55779.2023.10156314](https://doi.org/10.23919/ACC55779.2023.10156314)  
 
 - Machine learning-based detection of cervical spondylotic myelopathy using multiple gait parameters  
 Xinyu Ji, Wei Zeng, Qihang Dai, Yuyan Zhang, Shaoyi Du, Bing Ji  
-Biomimetic Intelligence and Robotics.2023  
+**Biomimetic Intelligence and Robotics，Volume 3, Issue 2, June 2023, 100103**  
 DOI：[10.1016/j.birob.2023.100103](https://doi.org/10.1016/j.birob.2023.100103)  
 
 - Vector Field-Based Guidance for Planar Smooth Path Following of a Small Unmanned Helicopter  
 Yang Chen, Wei Zeng, Yongliang Wu  
-Journal of Robotics.2023  
+**Journal of Robotics.2023**  
 Impact Factor: 1.8  
 DOI：[10.1155/2023/8638882](https://doi.org/10.1155/2023/8638882)  
 
 - Horizontal Path Following Kinematic Controller for a Small Fixed-wing UAV Using Backstepping and Parameter Optimization  
-Yang Chen, Nan Li, Yongliang Wu, Wei Zeng  
-0  
-International Journal of Control, Automation and Systems.2023  
+Yang Chen, Nan Li, Yongliang Wu, Wei Zeng    
+**International Journal of Control, Automation and Systems volume 21, pages1005–1019 (2023)**  
+Impact Factor: 3.2  
 DOI：[10.1007/s12555-021-0992-1](https://doi.org/10.1007/s12555-021-0992-1)  
 
 - Detection of cervical spondylotic myelopathy based on gait analysis and deterministic learning  
 Bing Ji, Qihang Dai, Xinyu Ji, Weiming Wu, Qinghua Sun, Hecheng Ma, Menglin Cong, Lei Cheng, Cong Wang, Meng Si, Wei Zeng  
-12  
-1  
-ARTIFICIAL INTELLIGENCE REVIEW.2023  
+**Artificial Intelligence Review volume 56, pages9157–9173 (2023)**  
+Impact Factor: 12  
 DOI：[10.1007/s10462-023-10404-8](https://doi.org/10.1007/s10462-023-10404-8)  
 
 - Epileptic EEG Identification Based on Dual Q-Factor Signal Decomposition (DQSD), Fast and Adaptive Multivariate Empirical Mode Decomposition (FA-MVEMD) and Neural Networks  
 Wei Zeng, Chengzhi Yuan  
-0  
-Circuits, Systems, and Signal Processing.2023  
+**Circuits, Systems, and Signal Processing volume 42, pages3552–3588 (2023)**  
+Impact Factor: 3.2  
 DOI：[10.1007/s00034-022-02282-2](https://doi.org/10.1007/s00034-022-02282-2)  
 
 - Abnormal heart sound detection from unsegmented phonocardiogram using deep features and shallow classifiers  
-Yang Chen, Bo Su, Wei Zeng, Chengzhi Yuan, Bing Ji  
-3.6  
-1  
-MULTIMEDIA TOOLS AND APPLICATIONS.2023  
+Yang Chen, Bo Su, Wei Zeng, Chengzhi Yuan, Bing Ji   
+**Multimedia Tools and Applications volume 82, pages26859–26883 (2023)**  
+Impact Factor: 3.6  
 DOI：[10.1007/s11042-022-14315-8](https://doi.org/10.1007/s11042-022-14315-8)  
 
 - Gait classification for early detection and severity rating of Parkinson’s disease based on hybrid signal processing and machine learning methods  
 Qinghui Wang, Wei Zeng, Xiangkun Dai  
-3.7  
-1  
-Cognitive Neurodynamics.2022  
+**Cognitive Neurodynamics (2022)**  
+Impact Factor: 3.7  
 DOI：[10.1007/s11042-023-15772-5](https://doi.org/10.1007/s11571-022-09925-9)  
 
 - A novel technique for the detection of myocardial dysfunction using ECG signals based on CEEMD, DWT, PSR and neural networks  
 Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
-12  
-1  
-ARTIFICIAL INTELLIGENCE REVIEW.2022  
+**Artificial Intelligence Review volume 56, pages3505–3541 (2023)**  
+Impact Factor: 12  
 DOI：[10.1007/s10462-022-10262-w](https://doi.org/10.1007/s10462-022-10262-w)  
 
 - Automatic Detection of Heart Valve Disorders Using Hybrid Signal Processing and Convolutional Neural Networks  
 Bo Su, Wei Zeng, Yang Chen, Chengzhi Yuan  
-0  
-.2022  
+**2022 41st Chinese Control Conference (CCC)**  
 DOI：[10.23919/CCC55666.2022.9901903](https://doi.org/10.23919/CCC55666.2022.9901903)  
+
+
+
+
+
+
+
 
 - Adaptive NN-Based Boundary Control for Output Tracking of A Wave Equation with Matched and Unmatched Boundary Uncertainties  
 Jingting Zhang, Paolo Stegagno, Wei Zeng, Chengzhi Yuan  
