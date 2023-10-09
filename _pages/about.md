@@ -404,25 +404,24 @@ DOI：[10.1007/s11768-013-1124-0](https://doi.org/10.1007/s11768-013-1124-0)
 
 - Silhouette-Based Gait Recognition via Deterministic Learning  
 Wei Zeng, Cong Wang  
-8  
-.2013  
+**Lecture Notes in Computer Science,,volume 7888**  
+Impact Factor:8  
 DOI：[10.1007/978-3-642-38786-9_1](https://doi.org/10.1007/978-3-642-38786-9_1)  
 
 - Human gait recognition via deterministic learning  
 Wei Zeng, Cong Wang  
-36  
-Neural Netw.2012  
+**Neural Networks,Volume 35, Pages 92-102, November 2012**  
+Impact Factor:36  
 DOI：[10.1016/j.neunet.2012.07.012](https://doi.org/10.1016/j.neunet.2012.07.012)  
 
 - Synthesis, X-ray structural, characterization, NBO and HOMO-LUMO analysis using DFT study of 4-methyl-N-(naphthalene-1-yl)benzene sulfonamide  
-K Sarojini, H Krishnan, Charles C Kanakam, S Muthu  
-Spectrochim Acta A Mol Biomol Spectrosc.2012  
+K Sarojini, H Krishnan, Charles C Kanakam, S Muthu
+**World Congress on Intelligent Control and Automation 2010 8th**    
 DOI：[10.3873/j.issn.1000-1328.2015.07.010](https://doi.org/10.3873/j.issn.1000-1328.2015.07.010)  
 
 - Dynamic vision via deterministic learning  
 Huiyan Yang, Wei Zeng, Cong Wang  
-0  
-.2010  
+**journal of astronautics,Vol. 36,Issue 7,811-818,2015**  
 DOI：[10.1109/WCICA.2010.5553987](https://doi.org/10.1109/WCICA.2010.5553987)  
 
 
