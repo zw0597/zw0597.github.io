@@ -129,118 +129,97 @@ Bo Su, Wei Zeng, Yang Chen, Chengzhi Yuan
 **2022 41st Chinese Control Conference (CCC)**  
 DOI：[10.23919/CCC55666.2022.9901903](https://doi.org/10.23919/CCC55666.2022.9901903)  
 
-
-
-
-
-
-
-
 - Adaptive NN-Based Boundary Control for Output Tracking of A Wave Equation with Matched and Unmatched Boundary Uncertainties  
-Jingting Zhang, Paolo Stegagno, Wei Zeng, Chengzhi Yuan  
-0  
-.2022  
+Jingting Zhang, Paolo Stegagno, Wei Zeng, Chengzhi Yuan    
+**Institute of Electrical and Electronics Engineers（IEEE），2022**  
 DOI：[10.23919/ACC53348.2022.9867897](https://doi.org/10.23919/ACC53348.2022.9867897)  
 
 - Curved Path Following Control for a Small Fixed-Wing UAV with Parameters Adaptation  
-Yang Chen, Nan Li, Wei Zeng, Yongliang Wu  
-0  
-Applied Sciences.2022  
+Yang Chen, Nan Li, Wei Zeng, Yongliang Wu    
+**Appl. Sci. 2022, 12(9), 4187**  
 DOI：[10.3390/app12094187](https://doi.org/10.3390/app12094187)  
 
 - Curved Path Following Controller for 4W Skid-Steering Mobile Robots Using Backstepping  
 Yang Chen, Nan Li, Wei Zeng, Shiqian Zhang, Guifang Ma  
-3.9  
-2  
-IEEE Access.2022  
+**IEEE Access.10，2022**  
+Impact Factor:3.9  
 DOI：[10.1109/ACCESS.2022.3185062](https://doi.org/10.1109/ACCESS.2022.3185062)  
 
 - Adaptive NN-Based Reference-Tracking Control of Uncertain Nonlinear Parabolic PDE Systems  
 Jingting Zhang, Yan Gu, Paolo Stegagno, Wei Zeng, Chengzhi Yuan  
-1  
-.2021  
+**Institute of Electrical and Electronics Engineers（IEEE），2021**  
 DOI：[10.1109/CDC45484.2021.9683381](https://doi.org/10.1109/CDC45484.2021.9683381)  
 
 - The impact of feature extraction and selection for the classification of gait patterns between ACL deficient and intact knees based on different classification models  
 Wei Zeng, Shiek Abdullah Ismail, Evangelos Pappas  
-1.9  
-1  
-EURASIP Journal on Advances in Signal Processing.2021  
+**EURASIP Journal on Advances in Signal Processing，95,2021**  
+Impact Factor:1.9  
 DOI：[10.1186/s13634-021-00796-6](https://doi.org/10.1186/s13634-021-00796-6)  
 
 - Hybrid control of switched LFT uncertain systems with time-varying input delays  
 Chengzhi Yuan, Yan Gu, Wei Zeng  
-2.1  
-0  
-INTERNATIONAL JOURNAL OF CONTROL.2021  
+**INTERNATIONAL JOURNAL OF CONTROL，95，3437-3448，2021**  
+Impact Factor:2.1  
 DOI：[10.1080/00207179.2021.1975197](https://doi.org/10.1080/00207179.2021.1975197)  
 
 - ECG arrhythmia classification based on variational mode decomposition, Shannon energy envelope and deterministic learning  
 Wei Zeng, Chengzhi Yuan  
-5.6  
-5  
-International Journal of Machine Learning and Cybernetics.2021  
+**International Journal of Machine Learning and Cybernetics，12, 2963–2988，2021**  
+Impact Factor:5.6  
 DOI：[10.1007/s13042-021-01389-3](https://doi.org/10.1007/s13042-021-01389-3)  
 
 - Fault Detection of A Class of Nonlinear Uncertain Parabolic PDE Systems  
 Jingting Zhang, Chengzhi Yuan, Wei Zeng, Paolo Stegagno, Cong Wang  
-1  
-.2021  
+**Institute of Electrical and Electronics Engineers（IEEE），2021**  
 DOI：[10.23919/ACC50511.2021.9483354](https://doi.org/10.23919/ACC50511.2021.9483354)  
 
 - Horizontal Nonlinear Path Following Guidance Law for a Small UAV With Parameter Optimized by NMPC  
 Yang Chen, Chaolei Wang, Wei Zeng, Yongliang Wu  
-3.9  
-4  
-IEEE Access.2021  
+**IEEE Access.9，2021**  
+Impact Factor:3.9  
 DOI：[10.1109/ACCESS.2021.3111101](https://doi.org/10.1109/ACCESS.2021.3111101)  
 
 - Fault Detection of a Class of Nonlinear Uncertain Parabolic PDE Systems  
 Jingting Zhang, Chengzhi Yuan, Wei Zeng, Paolo Stegagno, Cong Wang  
-3  
-6  
-IEEE Control Systems Letters.2020  
+**IEEE Control Systems Letters，Volume: 5 Issue: 4 2020**  
+Impact Factor:3  
 DOI：[10.1109/LCSYS.2020.3040132](https://doi.org/10.1109/LCSYS.2020.3040132)  
 
 - Myocardial infarction detection using artificial intelligence and nonlinear features based on synthesis of the standard 12-lead and Frank XYZ leads  
 Wei Zeng, Zixiang Lin, Chengzhi Yuan  
-0  
-Research Square.2020  
+**Research Square.2020**  
 DOI：[10.21203/rs.3.rs-56003/v1](https://doi.org/10.21203/rs.3.rs-56003/v1)  
 
 - A new approach for the detection of abnormal heart sound signals using TQWT, VMD and neural networks  
 Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
-12  
-25  
-ARTIFICIAL INTELLIGENCE REVIEW.2020  
+**Artificial Intelligence Review，54，1613–1647，2021**  
+Impact Factor:12  
 DOI：[10.1007/s10462-020-09875-w](https://doi.org/10.1007/s10462-020-09875-w)  
 
 - Classification of myocardial infarction based on hybrid feature extraction and artificial intelligence tools by adopting tunable-Q wavelet transform (TQWT), variational mode decomposition (VMD) and neural networks  
 Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
-7.5  
-22  
-ARTIFICIAL INTELLIGENCE IN MEDICINE.2020  
+**ARTIFICIAL INTELLIGENCE IN MEDICINE.106，2020**  
+Impact Factor:7.5  
 DOI：[10.1016/j.artmed.2020.101848](https://doi.org/10.1016/j.artmed.2020.101848)  
 
 - Cooperative Adaptive Learning Control for a Group of Nonholonomic UGVs by Output Feedback  
 Xiaonan Dong, Paolo Stegagno, Chengzhi Yuan, Wei Zeng  
-1  
-.2020  
+**Multi Agent Systems - Strategies and Applications，2020**  
 DOI：[10.5772/intechopen.87038](https://doi.org/10.5772/intechopen.87038)  
 
 - Small fault detection from discrete-time closed-loop control using fault dynamics residuals  
 Jingting Zhang, Chengzhi Yuan, Paolo Stegagno, Wei Zeng, Cong Wang  
-6  
-10  
-NEUROCOMPUTING.2019  
+**NEUROCOMPUTING，365,6，2019**  
+Impact Factor:6  
 DOI：[10.1016/j.neucom.2019.07.037](https://doi.org/10.1016/j.neucom.2019.07.037)  
 
 - Detecting the presence of anterior cruciate ligament deficiency based on a double pendulum model, intrinsic time-scale decomposition (ITD) and neural networks  
 Wei Zeng, Shiek Abdullah Ismail, Evangelos Pappas  
-12  
-6  
-ARTIFICIAL INTELLIGENCE REVIEW.2019  
+**Artificial Intelligence Review，53，3231–3253，2020**  
+Impact Factor:12  
 DOI：[10.1007/s10462-019-09761-0](https://doi.org/10.1007/s10462-019-09761-0)  
+
+
 
 - Detecting the presence of anterior cruciate ligament injury based on gait dynamics disparity and neural networks  
 Wei Zeng, Shiek Abdullah Ismail, Evangelos Pappas  
