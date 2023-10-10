@@ -91,6 +91,16 @@ Liangmin Shan, Wei Zeng, Tianyi Li, Yang Chen, Qinghui Wang, Chengzhi Yuan
 **2023 42nd Chinese Control Conference (CCC)，PP.7525-7530**  
 DOI：[10.23919/CCC58697.2023.10239858](https://doi.org/10.23919/CCC58697.2023.10239858)  
 
+- Detection of Obstructive Sleep Apnea Based on ECG System Dynamics, Hybrid Signal Processing and Neural Networks  
+Tianyi Li, Wei Zeng, Liangmin Shan, Yang Chen, Chengzhi Yuan  
+**2023 42nd Chinese Control Conference (CCC)，PP.7286-7291**  
+DOI：[10.23919/CCC58697.2023.10239954](https://doi.org/10.23919/CCC58697.2023.10239954)  
+
+- Boundary Tracking Control for An Unstable Wave Equation with Boundary Uncertainties: A Backstepping Adaptive NN Approach  
+Jingting Zhang, Yan Gu, Wei Zeng, Chengzhi Yuan  
+**2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM),PP.305-310**  
+DOI：[10.1109/AIM46323.2023.10196171](https://doi.org/10.1109/AIM46323.2023.10196171)  
+
 
 - Dynamics Learning-Based Fault Isolation for A Soft Trunk Robot  
 Jingting Zhang, Xiaotian Chen, Emadodin Jandaghi, Wei Zeng, Mingxi Zhou, Chengzhi Yuan  
