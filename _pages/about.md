@@ -48,11 +48,18 @@ redirect_from:
 
 # 📝 Publications
 **2023**
+
+- Automatic detection of heart valve disorders using Teager–Kaiser energy operator, rational-dilation wavelet transform and convolutional neural networks with PCG signals  
+Wei Zeng, Bo Su, Chengzhi Yuan & Yang Chen  
+**Artificial Intelligence Review,volume 56, pages781–806,2023**  
+  Impact Factor:11.6  
+ DOI：[10.1007/s10462-022-10184-7](https://doi.org/10.1007/s10462-022-10184-7)  
+
 - Myocardial infarction detection using ITD, DWT and deterministic learning based on ECG signals  
   Wei Zeng, Chengzhi Yuan  
   **Cognitive Neurodynamics, volume 17, pages941–964, 2023**
   Impact Factor: 3.7  
-  DOI：[10.1007/s11571-022-09870-7](https://doi.org/10.1007/s11571-022-09870-7)  
+DOI：[10.1007/s11571-022-09870-7](https://doi.org/10.1007/s11571-022-09870-7)  
 
 - Analysis and classification of gait patterns in osteoarthritic and asymptomatic knees using phase space reconstruction, intrinsic time-scale decomposition and neural networks  
 Wei Zeng, Limin Ma, Yu Zhang  
@@ -151,6 +158,12 @@ DOI：[10.1109/ACCESS.2022.3185062](https://doi.org/10.1109/ACCESS.2022.3185062)
 
 **2021**  
 
+- A novel technique for the detection of myocardial dysfunction using ECG signals based on hybrid signal processing and neural networks  
+Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu ,Ying Wang  
+**Soft Computing,volume 25, pages4571–4595,2021**  
+Impact Factor:3.7  
+DOI：[10.1007/s00500-020-05465-8](https://doi.org/10.1007/s00500-020-05465-8)  
+  
 - Adaptive NN-Based Reference-Tracking Control of Uncertain Nonlinear Parabolic PDE Systems  
 Jingting Zhang, Yan Gu, Paolo Stegagno, Wei Zeng, Chengzhi Yuan  
 **Institute of Electrical and Electronics Engineers（IEEE），2021**  
@@ -192,6 +205,13 @@ Impact Factor:12
 DOI：[10.1007/s10462-020-09875-w](https://doi.org/10.1007/s10462-020-09875-w)
 
 **2020**  
+
+- Composite adaptive NN learning and control for discrete-time nonlinear uncertain systems in normal form
+Author links open overlay panel  
+Jingting Zhang, Chengzhi Yuan, Cong Wang, Paolo Stegagno, Wei Zeng  
+**Neurocomputing,Volume 390, Pages 168-184, 21 May 2020**  
+Impact Factor:6.0  
+DOI：[10.1016/j.neucom.2020.01.052](https://doi.org/10.1016/j.neucom.2020.01.052)
 
 - Fault Detection of a Class of Nonlinear Uncertain Parabolic PDE Systems  
 Jingting Zhang, Chengzhi Yuan, Wei Zeng, Paolo Stegagno, Cong Wang  
@@ -242,6 +262,13 @@ Impact Factor:4.1
 DOI：[10.1007/s00500-019-04017-z](https://doi.org/10.1007/s00500-019-04017-z)  
 
 **2019**  
+
+- Kinect-based hand gesture recognition using trajectory information, hand motion dynamics and neural networks  
+Fenglin Liu, Wei Zeng, Chengzhi Yuan, Qinghui Wang ,Ying Wang  
+**Artificial Intelligence Review,volume 52, pages563–583,2019**  
+Impact Factor:11.6  
+DOI：[10.1007/s10462-019-09703-w](https://doi.org/10.1007/s10462-019-09703-w)
+
 
 - Small fault detection from discrete-time closed-loop control using fault dynamics residuals  
 Jingting Zhang, Chengzhi Yuan, Paolo Stegagno, Wei Zeng, Cong Wang  
@@ -297,7 +324,15 @@ DOI：[10.1007/s10462-018-9645-z](https://doi.org/10.1007/s10462-018-9645-z)
 Wei Zeng, Cong Wang, Qinghui Wang  
 **Multimedia Tools and Applications,volume 77, pages28185–28206,2018**  
 Impact Factor:3.1  
-DOI：[10.1007/s11042-018-5998-1](https://doi.org/10.1007/s11042-018-5998-1)
+DOI：[10.1007/s11042-018-5998-1](https://doi.org/10.1007/s11042-018-5998-1)  
+
+- output containment control of heterogeneous multi-agent systems via distributed dynamic output feedback
+Author links open overlay panel  
+Chengzhi Yuan, Shahab Ilbeigi, Wei Zeng  
+**Journal of the Franklin Institute,Volume 355, Issue 12, Pages 5058-5081, August 2018**  
+Impact Factor:3.8  
+DOI：[10.1016/j.jfranklin.2018.05.032](https://doi.org/10.1016/j.jfranklin.2018.05.032)  
+
 
 - Modeling and classification of gait patterns between anterior cruciate ligament deficient and intact knees based on phase space reconstruction, Euclidean distance and neural networks  
 Wenbao Wu, Wei Zeng, Limin Ma, Chengzhi Yuan, Yu Zhang  
@@ -376,8 +411,15 @@ DOI：[10.3969/j.issn.1001-506X.2017.06.22](https://doi.org/10.3969/j.issn.1001-
 - Parkinson's disease classification using gait analysis via deterministic learning  
 Wei Zeng , Fenglin Liu , Qinghui Wang , Ying Wang , Limin Ma , Yu Zhang  
 **Neuroscience Letters,Volume 633, Pages 268-278, 28 October 2016**  
-mpact Factor:2.8  
+Impact Factor:2.8  
 DOI：[10.1016/j.neulet.2016.09.043](https://doi.org/10.1016/j.neulet.2016.09.043)  
+
+- Learning from adaptive neural network output feedback control of a unicycle-type mobile robot
+Author links open overlay panel  
+Wei Zeng, Qinghui Wang, Fenglin Liu, Ying Wang
+**ISA Transactions,Volume 61, Pages 337-347, March 2016**  
+Impact Factor:6.5  
+DOI：[10.1016/j.isatra.2016.01.005](https://doi.org/10.1016/j.isatra.2016.01.005)
 
 - A New Gait Recognition Method Using Kinect via Deterministic Learning  
 Fenglin Liu, Ying Wang, Qinghui Wang, Long Zhang, Wei Zeng  
