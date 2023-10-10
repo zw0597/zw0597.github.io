@@ -182,7 +182,7 @@ DOI：[10.1007/s11042-023-15772-5](https://doi.org/10.1007/s11571-022-09925-9)
 
 - Fault Detection and Isolation of Uncertain Nonlinear Parabolic PDE Systems  
 Jingting Zhang, Chengzhi Yuan, Wei Zeng, Cong Wang  
-**arXiv preprint,Systems and Control,arXiv:2203.15850**
+**arXiv preprint,Systems and Control,arXiv:2203.15850**  
 DOI：[10.48550/arXiv.2203.15850](https://doi.org/10.48550/arXiv.2203.15850)  
 
 - Automatic Detection of Heart Valve Disorders Using Hybrid Signal Processing and Convolutional Neural Networks  
