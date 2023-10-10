@@ -19,7 +19,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2002年于华南理工大学获机械工程及自动化和工商管理双专业，2008年于厦门大学获控制工程硕士学位，2012年于华南理工大学获控制理论与控制工程工学博士学位，2012-2014年在华南理工大学机械工程流动站从事博士后研究，2003-2017年在龙岩学院物理与机电工程学院担任助教、讲师和副教授，2017-2018年在澳大利亚悉尼大学健康科学学院访问，2018年起在龙岩学院物理与机电工程学院担任教授。
   
-- 总文章数：69&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总引用数：506
+- 总文章数：69&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总引用数：1264
 - H-INDEX : 14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总影响因子：75  
 
 
@@ -112,17 +112,21 @@ Yang Chen, Bo Su, Wei Zeng, Chengzhi Yuan, Bing Ji
 Impact Factor: 3.6  
 DOI：[10.1007/s11042-022-14315-8](https://doi.org/10.1007/s11042-022-14315-8)  
 
+- A novel technique for the detection of myocardial dysfunction using ECG signals based on CEEMD, DWT, PSR and neural networks 
+Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
+**Artificial Intelligence Review volume 56, pages3505–3541 (2023)**  
+Impact Factor: 12  
+DOI：[10.1007/s10462-022-10262-w](https://doi.org/10.1007/s10462-022-10262-w)
+
+**2022**  
+
 - Gait classification for early detection and severity rating of Parkinson’s disease based on hybrid signal processing and machine learning methods  
 Qinghui Wang, Wei Zeng, Xiangkun Dai  
 **Cognitive Neurodynamics (2022)**  
 Impact Factor: 3.7  
 DOI：[10.1007/s11042-023-15772-5](https://doi.org/10.1007/s11571-022-09925-9)  
 
-- A novel technique for the detection of myocardial dysfunction using ECG signals based on CEEMD, DWT, PSR and neural networks  
-Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
-**Artificial Intelligence Review volume 56, pages3505–3541 (2023)**  
-Impact Factor: 12  
-DOI：[10.1007/s10462-022-10262-w](https://doi.org/10.1007/s10462-022-10262-w)  
+
 
 - Automatic Detection of Heart Valve Disorders Using Hybrid Signal Processing and Convolutional Neural Networks  
 Bo Su, Wei Zeng, Yang Chen, Chengzhi Yuan  
@@ -144,6 +148,8 @@ Yang Chen, Nan Li, Wei Zeng, Shiqian Zhang, Guifang Ma
 **IEEE Access.10，2022**  
 Impact Factor:3.9  
 DOI：[10.1109/ACCESS.2022.3185062](https://doi.org/10.1109/ACCESS.2022.3185062)  
+
+**2021**  
 
 - Adaptive NN-Based Reference-Tracking Control of Uncertain Nonlinear Parabolic PDE Systems  
 Jingting Zhang, Yan Gu, Paolo Stegagno, Wei Zeng, Chengzhi Yuan  
@@ -179,6 +185,14 @@ Yang Chen, Chaolei Wang, Wei Zeng, Yongliang Wu
 Impact Factor:3.9  
 DOI：[10.1109/ACCESS.2021.3111101](https://doi.org/10.1109/ACCESS.2021.3111101)  
 
+- A new approach for the detection of abnormal heart sound signals using TQWT, VMD and neural networks  
+Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
+**Artificial Intelligence Review，54，1613–1647，2021**  
+Impact Factor:12  
+DOI：[10.1007/s10462-020-09875-w](https://doi.org/10.1007/s10462-020-09875-w)
+
+**2020**  
+
 - Fault Detection of a Class of Nonlinear Uncertain Parabolic PDE Systems  
 Jingting Zhang, Chengzhi Yuan, Wei Zeng, Paolo Stegagno, Cong Wang  
 **IEEE Control Systems Letters，Volume: 5 Issue: 4 2020**  
@@ -190,11 +204,7 @@ Wei Zeng, Zixiang Lin, Chengzhi Yuan
 **Research Square.2020**  
 DOI：[10.21203/rs.3.rs-56003/v1](https://doi.org/10.21203/rs.3.rs-56003/v1)  
 
-- A new approach for the detection of abnormal heart sound signals using TQWT, VMD and neural networks  
-Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
-**Artificial Intelligence Review，54，1613–1647，2021**  
-Impact Factor:12  
-DOI：[10.1007/s10462-020-09875-w](https://doi.org/10.1007/s10462-020-09875-w)  
+
 
 - Classification of myocardial infarction based on hybrid feature extraction and artificial intelligence tools by adopting tunable-Q wavelet transform (TQWT), variational mode decomposition (VMD) and neural networks  
 Wei Zeng, Jian Yuan, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
@@ -207,19 +217,11 @@ Xiaonan Dong, Paolo Stegagno, Chengzhi Yuan, Wei Zeng
 **Multi Agent Systems - Strategies and Applications，2020**  
 DOI：[10.5772/intechopen.87038](https://doi.org/10.5772/intechopen.87038)  
 
-- Small fault detection from discrete-time closed-loop control using fault dynamics residuals  
-Jingting Zhang, Chengzhi Yuan, Paolo Stegagno, Wei Zeng, Cong Wang  
-**NEUROCOMPUTING，365,6，2019**  
-Impact Factor:6  
-DOI：[10.1016/j.neucom.2019.07.037](https://doi.org/10.1016/j.neucom.2019.07.037)  
-
 - Detecting the presence of anterior cruciate ligament deficiency based on a double pendulum model, intrinsic time-scale decomposition (ITD) and neural networks  
 Wei Zeng, Shiek Abdullah Ismail, Evangelos Pappas  
 **Artificial Intelligence Review，53，3153–3176，2020**  
 Impact Factor:12  
 DOI：[10.1007/s10462-019-09761-0](https://doi.org/10.1007/s10462-019-09761-0)  
-
-
 
 - Detecting the presence of anterior cruciate ligament injury based on gait dynamics disparity and neural networks  
 Wei Zeng, Shiek Abdullah Ismail, Evangelos Pappas  
@@ -233,6 +235,20 @@ Wei Zeng, Mengqing Li, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang
 Impact Factor:12  
 DOI：[10.1007/s10462-019-09755-y](https://doi.org/10.1007/s10462-019-09755-y)  
 
+- Classification of gait patterns in patients with unilateral anterior cruciate ligament deficiency based on phase space reconstruction, Euclidean distance and neural networks  
+Wei Zeng, Shiek Abdullah Ismail, Evangelos Pappas  
+**Soft Computing,24,1851–1868,2020**  
+Impact Factor:4.1  
+DOI：[10.1007/s00500-019-04017-z](https://doi.org/10.1007/s00500-019-04017-z)  
+
+**2019**  
+
+- Small fault detection from discrete-time closed-loop control using fault dynamics residuals  
+Jingting Zhang, Chengzhi Yuan, Paolo Stegagno, Wei Zeng, Cong Wang  
+**NEUROCOMPUTING，365,6，2019**  
+Impact Factor:6  
+DOI：[10.1016/j.neucom.2019.07.037](https://doi.org/10.1016/j.neucom.2019.07.037)
+
 - UGV Direction Control by Human Arm Gesture Recognition via Deterministic Learning  
 Xiaotian Chen, Xiaonan Dong, Wei Zeng, Chengzhi Yuan, Paolo Stegagno  
 DOI：[10.23919/ChiCC.2019.8865788](https://doi.org/10.23919/ChiCC.2019.8865788)  
@@ -244,12 +260,6 @@ DOI：[10.23919/ChiCC.2019.8866573](https://doi.org/10.23919/ChiCC.2019.8866573)
 - Classification between Focal and Non Focal EEG Signals Based on Signal Processing and Neural Networks  
 Wei Zeng, Mengqing Li, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
 DOI：[10.23919/ChiCC.2019.8866219](https://doi.org/10.23919/ChiCC.2019.8866219)  
-
-- Classification of gait patterns in patients with unilateral anterior cruciate ligament deficiency based on phase space reconstruction, Euclidean distance and neural networks  
-Wei Zeng, Shiek Abdullah Ismail, Evangelos Pappas  
-**Soft Computing,24,1851–1868,2020**  
-Impact Factor:4.1  
-DOI：[10.1007/s00500-019-04017-z](https://doi.org/10.1007/s00500-019-04017-z)  
 
 - Classification of focal and non focal EEG signals using empirical mode decomposition (EMD), phase space reconstruction (PSR) and neural networks  
 Wei Zeng, Mengqing Li, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang  
@@ -275,6 +285,20 @@ Wei Zeng, Chengzhi Yuan, Qinghui Wang, Fenglin Liu, Ying Wang
 Impact Factor:39  
 DOI：[10.1016/j.neunet.2018.12.012](https://doi.org/10.1016/j.neunet.2018.12.012)  
 
+- Classification of asymptomatic and osteoarthritic knee gait patterns using gait analysis via deterministic learning  
+Wei Zeng, Limin Ma, Chengzhi Yuan, Fenglin Liu, Qinghui Wang, Ying Wang, Yu Zhang  
+**Artificial Intelligence Review,52,449–467,2019**  
+Impact Factor:12  
+DOI：[10.1007/s10462-018-9645-z](https://doi.org/10.1007/s10462-018-9645-z)  
+
+**2018**  
+
+- Hand gesture recognition using Leap Motion via deterministic learning  
+Wei Zeng, Cong Wang, Qinghui Wang  
+**Multimedia Tools and Applications,volume 77, pages28185–28206,2018**  
+Impact Factor:3.1  
+DOI：[10.1007/s11042-018-5998-1](https://doi.org/10.1007/s11042-018-5998-1)
+
 - Modeling and classification of gait patterns between anterior cruciate ligament deficient and intact knees based on phase space reconstruction, Euclidean distance and neural networks  
 Wenbao Wu, Wei Zeng, Limin Ma, Chengzhi Yuan, Yu Zhang  
 **BioMedical Engineering OnLine,volume 17, Article number: 165,2018**  
@@ -289,11 +313,6 @@ DOI：[10.23919/ChiCC.2018.8482621](https://doi.org/10.23919/ChiCC.2018.8482621)
 Yuan Chengzhi, Abdelatti Marwan, Dong Xiaonan, Zeng Wei, Stegagno Paolo, Duan Chang  
 DOI：[10.23919/ChiCC.2018.8483021](https://doi.org/10.23919/ChiCC.2018.8483021)  
 
-- Classification of asymptomatic and osteoarthritic knee gait patterns using gait analysis via deterministic learning  
-Wei Zeng, Limin Ma, Chengzhi Yuan, Fenglin Liu, Qinghui Wang, Ying Wang, Yu Zhang  
-**Artificial Intelligence Review,52,449–467,2019**  
-Impact Factor:12  
-DOI：[10.1007/s10462-018-9645-z](https://doi.org/10.1007/s10462-018-9645-z)  
 
 - Recognizing knee pathologies by using gait dynamics via kernel principal component analysis and deterministic learning theory  
 Muqing Deng, Xiaoreng Feng, Wei Zeng, Jiuwen Cao, Yu Zhang, Tongjia Zheng  
@@ -311,7 +330,15 @@ Marwan Abdelatti, Chengzhi Yuan, Wei Zeng, Cong Wang
 Impact Factor:16  
 DOI：[10.1007/s11432-017-9363-y](https://doi.org/10.1007/s11432-017-9363-y)  
 
-- Classification of Gait Patterns of Anterior Cruciate Ligament Deficient Knees Using Gait Analysis via Deterministic Learning  
+**2017**  
+
+- Fusion of spatial-temporal and kinematic features for gait recognition with deterministic learning  
+Muqing Deng, Cong Wang, Fengjiang Cheng, Wei Zeng 
+**Pattern Recognition,Volume 67, Pages 186-200, July 2017**  
+Impact Factor:8.4  
+DOI：[10.1016/j.patcog.2017.02.014](https://doi.org/10.1016/j.patcog.2017.02.014)  
+
+- Classification of Gait Patterns of Anterior Cruciate Ligament Deficient Knees Using Gait Analysis via Deterministic Learning 
 Wei Zeng, Jin Li, Qinghui Wang, Fenglin Liu, Ying Wang  
 DOI：[10.23919/ChiCC.2017.8029099](https://doi.org/10.23919/ChiCC.2017.8029099)  
 
@@ -344,6 +371,14 @@ Si, W., Dong, X., Zeng, W.
 **Xi Tong Gong Cheng Yu Dian Zi Ji Shu/Systems Engineering and Electronics.2017**  
 DOI：[10.3969/j.issn.1001-506X.2017.06.22](https://doi.org/10.3969/j.issn.1001-506X.2017.06.22)  
 
+**2016**  
+
+- Parkinson's disease classification using gait analysis via deterministic learning  
+Wei Zeng , Fenglin Liu , Qinghui Wang , Ying Wang , Limin Ma , Yu Zhang  
+**Neuroscience Letters,Volume 633, Pages 268-278, 28 October 2016**  
+mpact Factor:2.8  
+DOI：[10.1016/j.neulet.2016.09.043](https://doi.org/10.1016/j.neulet.2016.09.043)  
+
 - A New Gait Recognition Method Using Kinect via Deterministic Learning  
 Fenglin Liu, Ying Wang, Qinghui Wang, Long Zhang, Wei Zeng  
 DOI：[10.1109/WCICA.2016.7578329](https://doi.org/10.1109/WCICA.2016.7578329)  
@@ -357,6 +392,14 @@ Wei Zeng, Cong Wang
 **Neurocomputing,Volume 175,Part A, Pages 324-335,2016**  
 Impact Factor:6  
 DOI：[10.1016/j.neucom.2015.10.065](https://doi.org/10.1016/j.neucom.2015.10.065)  
+
+**2015**  
+
+- Classification of neurodegenerative diseases using gait dynamics via deterministic learning
+Wei Zeng , Cong Wang  
+**Information Sciences,Volume 317, Pages 246-258, 1 October 2015**  
+Impact Factor:7.5
+DOI：[10.1016/j.ins.2015.04.047](https://doi.org/10.1016/j.ins.2015.04.047)  
 
 - Temporal Consistency Object Tracker with Ranking Mechanism  
 Yueen Hou, Ping Ye, Wei Zeng  
@@ -378,6 +421,14 @@ Wei Zeng, Cong Wang
 Impact Factor:6  
 DOI：[10.1016/j.neucom.2014.10.079](https://doi.org/10.1016/j.neucom.2014.10.079)  
 
+**2014**  
+
+- Silhouette-based gait recognition via deterministic learning
+Wei Zeng , Cong Wang, Feifei Yang  
+**Pattern Recognition,Volume 47, Issue 11, Pages 3568-3584, November 2014**  
+Impact Factor:8.4  
+DOI：[10.1016/j.patcog.2014.04.014](https://doi.org/10.1016/j.patcog.2014.04.014)  
+
 - View-Invariant Gait Recognition via Deterministic Learning  
 Wei Zeng, Cong Wang  
 **International Joint Conference on Neural Networks (IJCNN)**  
@@ -396,11 +447,15 @@ Wei Zeng, Cong Wang, Yuanqing Li
 Impact Factor:5.4  
 DOI：[10.1007/s12559-013-9221-4](https://doi.org/10.1007/s12559-013-9221-4)  
 
+**2013**  
+
 - Learning from NN output feedback control of nonlinear systems in Brunovsky canonical form  
 Wei Zeng, Cong Wang  
 **Journal of Control Theory and Applications,volume 11, pages156–164,2013**  
 Impact Factor:1.4  
 DOI：[10.1007/s11768-013-1124-0](https://doi.org/10.1007/s11768-013-1124-0)  
+
+**2012**  
 
 - Silhouette-Based Gait Recognition via Deterministic Learning  
 Wei Zeng, Cong Wang  
@@ -421,7 +476,7 @@ DOI：[10.3873/j.issn.1000-1328.2015.07.010](https://doi.org/10.3873/j.issn.1000
 
 - Dynamic vision via deterministic learning  
 Huiyan Yang, Wei Zeng, Cong Wang  
-**journal of astronautics,Vol. 36,Issue 7,811-818,2015**  
+**journal of astronautics,Vol. 36,Issue 7,811-818,**  
 DOI：[10.1109/WCICA.2010.5553987](https://doi.org/10.1109/WCICA.2010.5553987)  
 
 
