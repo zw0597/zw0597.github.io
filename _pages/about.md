@@ -55,6 +55,14 @@ Yaoyue Zheng , Xuetao Zhang , Zhiqiang Tian , Wei Zeng , Shaoyi Du
 Impact Factor:8.6 
 DOI：[10.1016/j.knosys.2023.110798](https://doi.org/10.1016/j.knosys.2023.110798)  
 
+- Epileptic seizure detection with deep EEG features by convolutional neural network and shallow classifiers  
+Wei Zeng, Liangmin Shan, Bo Su, Shaoyi Du  
+**Frontiers in Neuroscience,Volume 17, 1145526, 22 May 2023**  
+Impact Factor:5.2 
+DOI：[10.3389/fnins.2023.1145526](https://doi.org/10.3389/fnins.2023.1145526)  
+
+
+
 
 - Automatic detection of heart valve disorders using Teager–Kaiser energy operator, rational-dilation wavelet transform and convolutional neural networks with PCG signals  
 Wei Zeng, Bo Su, Chengzhi Yuan & Yang Chen  
@@ -73,6 +81,7 @@ Wei Zeng, Limin Ma, Yu Zhang
 **MULTIMEDIA TOOLS AND APPLICATIONS.2023**  
 Impact Factor: 3.6  
 DOI：[10.1007/s11042-023-16322-9](https://doi.org/10.1007/s11042-023-16322-9)  
+
 
 - Exploring gait analysis and deep feature contributions to the screening of cervical spondylotic myelopathy  
 Bing Ji, Qihang Dai, Xinyu Ji, Meng Si, Hecheng Ma, Menglin Cong, Lei Cheng, Liying Guan, Bo Su, Yuyan Zhang, Wei Zeng*  
@@ -181,11 +190,22 @@ Bo Su, Wei Zeng, Yang Chen, Chengzhi Yuan
 **2022 41st Chinese Control Conference (CCC)**  
 DOI：[10.23919/CCC55666.2022.9901903](https://doi.org/10.23919/CCC55666.2022.9901903)  
 
+- Experimental Validation of an Adaptive NN Learning Controller on a Robotic Manipulator  
+Joseph Legris, Xiaotian Chen, Wei Zeng, Chengzhi Yuan  
+**2022 34th Chinese Control and Decision Conference (CCDC),PP.4128-4133**  
+DOI：[10.1109/CCDC55256.2022.10033560](https://doi.org/10.1109/CCDC55256.2022.10033560)
+
 - Localized motion dynamics modeling of a soft robot: A data-driven adaptive learning approach  
 Xiaotian Chen, Paolo Stegagno, Wei Zeng, Chengzhi Yuan  
 **2022 American Control Conference (ACC),PP.2644-2649**  
- DOI：[10.23919/ACC53348.2022.9867191](https://doi.org/10.23919/ACC53348.2022.9867191)  
+DOI：[10.23919/ACC53348.2022.9867191](https://doi.org/10.23919/ACC53348.2022.9867191)  
 
+- A Simple Path Following Algorithm for 4W Skid-Steering Mobile Robots  
+Nan Li, Yang Chen, Wei Zeng, Jinshun Fang, Shiqian Zhang, Guifang Ma  
+**2022 China Automation Congress (CAC),PP.206-211**  
+DOI：[10.1109/CAC57257.2022.10055235](https://doi.org/10.1109/CAC57257.2022.10055235)  
+
+  
 - Fault Isolation of a Class of Uncertain Nonlinear Parabolic PDE Systems  
 Jingting Zhang , Chengzhi Yuan , Paolo Stegagno , Wei Zeng  
 **IFAC-PapersOnLine,Volume 55, Issue 37, Pages 13-18, 2022**  
@@ -507,6 +527,11 @@ Wei Zeng , Fenglin Liu , Qinghui Wang , Ying Wang , Limin Ma , Yu Zhang
 Impact Factor:2.8  
 DOI：[10.1016/j.neulet.2016.09.043](https://doi.org/10.1016/j.neulet.2016.09.043)  
 
+- Identification and Recognition of the Perspective Dynamic Vision System via Deterministic Learning
+Qinghui Wang, Wei Zeng, Fenglin Liu, Ying Wang
+**International Journal of Innovative Computing, Information and Control,VOL.12-5,PP.1581-1596**  
+DOI：[JGLOBAL_ID=202102273909904922](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202102273909904922)  
+
 
 - A new Kinect-based frontal view gait recognition method via deterministic learning  
 Wei Zeng, Xin Zheng, Fenglin Liu, Ying Wang, Qinghui Wang
@@ -603,6 +628,12 @@ Wei Zeng, Cong Wang, Yuanqing Li
 **Cognitive Computation,volume 6, pages218–229,2014**  
 Impact Factor:5.4  
 DOI：[10.1007/s12559-013-9221-4](https://doi.org/10.1007/s12559-013-9221-4)  
+
+- Control of an underactuated rigid spacecraft via deterministic learning  
+Wei Zeng, Cong Wang, Jun Zhang  
+**Proceeding of the 11th World Congress on Intelligent Control and Automation,PP.1159-1164**  
+DOI：[10.1109/WCICA.2014.7052882](https://doi.org/10.1109/WCICA.2014.7052882)  
+
 
 **2013**  
 
