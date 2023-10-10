@@ -673,6 +673,8 @@ Wei Zeng, Cong Wang
 Impact Factor:36  
 DOI：[10.1016/j.neunet.2012.07.012](https://doi.org/10.1016/j.neunet.2012.07.012)  
 
+**2010**
+
 - Synthesis, X-ray structural, characterization, NBO and HOMO-LUMO analysis using DFT study of 4-methyl-N-(naphthalene-1-yl)benzene sulfonamide  
 K Sarojini, H Krishnan, Charles C Kanakam, S Muthu
 **World Congress on Intelligent Control and Automation 2010 8th**    
@@ -680,7 +682,7 @@ DOI：[10.3873/j.issn.1000-1328.2015.07.010](https://doi.org/10.3873/j.issn.1000
 
 - Deterministic learning from NN output feedback control of Brunovsky systems  
 Wei Zeng, Cong Wang  
-**Proceedings of the 30th Chinese Control Conference,PP.6629-6634**  
+**Proceedings of the 30th Chinese Control Conference,PP.6629-6634，2010**  
 DOI：[ieeexplore.ieee.org/abstract/document/6001227](https://ieeexplore.ieee.org/abstract/document/6001227)  
 
 
